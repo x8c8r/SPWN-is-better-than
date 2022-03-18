@@ -6,3 +6,4 @@ Languages:
 - Python
 - JavaScript
 - CoffeeScript
+- TypeScript
